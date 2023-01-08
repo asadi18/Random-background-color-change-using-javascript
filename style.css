@@ -1,0 +1,34 @@
+ body {
+  margin: 0;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  
+  overflow: hidden;
+  background-size: cover;
+}
+
+span{
+  padding : 10px;
+}
+h3{
+  margin: 0;
+}
+
+button {
+  padding: 10px ;
+  font-size: 14px;
+ 
+
+}
+
+button:hover{
+  background-color: red;
+  color: white;
+  border-color: whitesmoke;
+  
+
+}
